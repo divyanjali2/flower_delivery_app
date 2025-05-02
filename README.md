@@ -19,3 +19,6 @@ As a user:
 Browse available flowers.
 Select flowers to purchase.
 Place orders for delivery with cash on delivery payment.
+
+Screenshots of the Application
+https://drive.google.com/drive/folders/15zyEntkWGD6MTHzmuFmbeEmZUz8ip-OX?usp=sharing
